@@ -1,4 +1,4 @@
-# python_selenium_automation2
+# python_selenium_automation_2
 
 **Selenium** automation demonstration in **Python 3**
 
