@@ -2,6 +2,6 @@
 
 **Selenium** automation demonstration in **Python 3**
 
-Libraries: *selenium, time, requests, urllib3, seletools*
+Libraries: *selenium, time*
 
 ## This is project is in progress...
